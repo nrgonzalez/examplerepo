@@ -1,0 +1,15 @@
+/Users/ninagonzalez/Desktop/mis221/examplerepo/bin/Debug/net6.0/examplerepo
+/Users/ninagonzalez/Desktop/mis221/examplerepo/bin/Debug/net6.0/examplerepo.deps.json
+/Users/ninagonzalez/Desktop/mis221/examplerepo/bin/Debug/net6.0/examplerepo.runtimeconfig.json
+/Users/ninagonzalez/Desktop/mis221/examplerepo/bin/Debug/net6.0/examplerepo.dll
+/Users/ninagonzalez/Desktop/mis221/examplerepo/bin/Debug/net6.0/examplerepo.pdb
+/Users/ninagonzalez/Desktop/mis221/examplerepo/obj/Debug/net6.0/examplerepo.csproj.AssemblyReference.cache
+/Users/ninagonzalez/Desktop/mis221/examplerepo/obj/Debug/net6.0/examplerepo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ninagonzalez/Desktop/mis221/examplerepo/obj/Debug/net6.0/examplerepo.AssemblyInfoInputs.cache
+/Users/ninagonzalez/Desktop/mis221/examplerepo/obj/Debug/net6.0/examplerepo.AssemblyInfo.cs
+/Users/ninagonzalez/Desktop/mis221/examplerepo/obj/Debug/net6.0/examplerepo.csproj.CoreCompileInputs.cache
+/Users/ninagonzalez/Desktop/mis221/examplerepo/obj/Debug/net6.0/examplerepo.dll
+/Users/ninagonzalez/Desktop/mis221/examplerepo/obj/Debug/net6.0/refint/examplerepo.dll
+/Users/ninagonzalez/Desktop/mis221/examplerepo/obj/Debug/net6.0/examplerepo.pdb
+/Users/ninagonzalez/Desktop/mis221/examplerepo/obj/Debug/net6.0/examplerepo.genruntimeconfig.cache
+/Users/ninagonzalez/Desktop/mis221/examplerepo/obj/Debug/net6.0/ref/examplerepo.dll
